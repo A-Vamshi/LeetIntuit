@@ -8,7 +8,7 @@ export const generateAnswerMarkdown = async ({ slug, level, apiKey } : GenerateP
       const leetcode = new LeetCode();
       const questionDetails = await leetcode.problem(slug);
       if (!questionDetails || !questionDetails.content) {
-        return "There's something with the slug provided";
+        return "**There's something wrong with the question provided**";
       }
       const question = convert(questionDetails.content);
       const prompt = `You are an AI designed to assist users with LeetCode problems. For each problem, your goal is to help the user build the intuition for solving it without providing the solution or code. Instead, you will explain the core concepts, key insights, and high-level reasoning that are crucial for approaching the problem.

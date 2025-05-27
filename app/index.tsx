@@ -1,7 +1,7 @@
 import Main from "@/components/Main";
 import Setup from "@/components/Setup";
 import { useEffect, useState } from "react";
-import { ScrollView, Text, View } from "react-native";
+import { ScrollView, Text } from "react-native";
 import * as SecureStore from "expo-secure-store";
 import { SafeAreaView } from "react-native-safe-area-context";
 
@@ -25,7 +25,7 @@ const Index = () => {
               <Setup setApiKey={setApiKey} />
             )
           }
-          <Main />
+          <Main apiKey={apiKey ? apiKey : ""} />
         </ScrollView>
     </SafeAreaView>
   );

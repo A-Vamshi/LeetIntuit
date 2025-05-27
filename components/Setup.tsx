@@ -13,7 +13,7 @@ const Setup = ({ setApiKey } : SetUpProps) => {
         }
     }
   return (
-    <View className='w-full h-[15vh] border-2 border-green-400 rounded-md items-center justify-center p-2 bg-neutral-700'>
+    <View className='w-full h-[15vh] border-2 border-gray-500 rounded-md items-center justify-center p-2 bg-neutral-700 my-2'>
       <TextInput
         value={key}
         onChangeText={(text) => setKey(text)}
