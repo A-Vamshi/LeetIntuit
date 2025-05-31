@@ -39,9 +39,10 @@ cd LeetIntuit
 npm install
 
 # Run the app
-npx expo start 
-💡 Use Cases
+npx expo start
+
 ```
+## 💡 Use Cases
 
 Preparing for technical interviews (LeetCode, HackerRank, etc.)
 Enhancing problem-solving strategies
