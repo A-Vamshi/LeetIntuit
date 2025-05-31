@@ -44,7 +44,7 @@ npx expo start
 ```
 ## 💡 Use Cases
 
-Preparing for technical interviews (LeetCode, HackerRank, etc.)
+Preparing for technical interviews (LeetCode)
 Enhancing problem-solving strategies
 Teaching computer science and algorithms
 Practicing critical thinking and logic development
