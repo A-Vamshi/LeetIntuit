@@ -32,13 +32,14 @@ No spoilers! LeetIntuit is built to foster self-derived insight—not copy-paste
 # Clone the repository
 ```bash
 git clone https://github.com/A-Vamshi/LeetIntuit.git
-cd leetintuit
+
+cd LeetIntuit
 
 # Install dependencies
 npm install
 
 # Run the app
-npm start
+npx expo start 
 💡 Use Cases
 ```
 
