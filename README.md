@@ -1,50 +1,68 @@
-# Welcome to your Expo app 👋
+## 🕹️ LeetIntuit
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+LeetIntuit is a retro UI–themed application that uses artificial intelligence to help you build intuition around solving coding and logical problems—without ever revealing the actual solution or code.
 
-## Get started
+## 🧠 What is LeetIntuit?
 
-1. Install dependencies
+LeetIntuit is your AI-powered sidekick designed to guide you toward understanding how to approach a problem logically. Instead of handing you a solution, LeetIntuit offers hints, breakdowns, and strategic thinking patterns that stimulate your problem-solving abilities.
 
-   ```bash
-   npm install
-   ```
+Whether you're preparing for coding interviews, learning algorithms, or sharpening your logical reasoning, LeetIntuit provides just enough guidance to lead you in the right direction—without spoiling the journey.
 
-2. Start the app
+## 🎨 Features
 
-   ```bash
-   npx expo start
-   ```
+🖥️ Retro UI Experience
+A nostalgic, pixel-perfect interface that takes you back to the golden age of computing.
+🤖 AI-Generated Intuition Paths
+Offers high-level logical breakdowns and thought processes instead of direct answers.
+🧩 Problem-Oriented Reasoning
+Supports a variety of problems and encourages deep, independent thinking.
+🔒 Solution-Free Zone
+No spoilers! LeetIntuit is built to foster self-derived insight—not copy-paste answers.
+## 🚀 How It Works
 
-In the output, you'll find options to open the app in a
+- Input a Problem Statement
+- Paste in your problem or describe the challenge you're facing.
+- Get Intuition Guidance
+- LeetIntuit analyzes the problem and returns a structured logical approach.
+- Think Like a Pro
+- Use the suggestions to form your own strategy and solve the problem your way.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Installation
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+# Clone the repository
 ```bash
-npm run reset-project
+git clone https://github.com/A-Vamshi/LeetIntuit.git
+cd leetintuit
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+💡 Use Cases
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Preparing for technical interviews (LeetCode, HackerRank, etc.)
+Enhancing problem-solving strategies
+Teaching computer science and algorithms
+Practicing critical thinking and logic development
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📷 Demo
+<img src="/images/1.jpeg" alt="screenshot" width="200"/> <img src="/images/2.jpeg" alt="screenshot" width="200"/>
+<img src="/images/3.jpeg" alt="screenshot" width="200"/>
+<img src="/images/4.jpeg" alt="screenshot" width="200"/>
+<img src="/images/5.jpeg" alt="screenshot" width="200"/>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## 🛡️ Philosophy
 
-Join our community of developers creating universal apps.
+"True learning comes not from being told the answer, but from discovering it yourself."
+— The LeetIntuit Ethos
+## 📬 Feedback & Contributions
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+We're always open to feedback and contributions! Feel free to open issues, submit pull requests, or suggest features.
+
+📄 License
+
+This project is licensed under the MIT License.
