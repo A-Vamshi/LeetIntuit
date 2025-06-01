@@ -2,6 +2,12 @@
 
 LeetIntuit is a retro UI–themed application that uses artificial intelligence to help you build intuition around solving coding and logical problems—without ever revealing the actual solution or code.
 
+## 📷 Demo
+<img src="/images/1.jpeg" alt="screenshot" width="200"/> <img src="/images/2.jpeg" alt="screenshot" width="200"/>
+<img src="/images/3.jpeg" alt="screenshot" width="200"/>
+<img src="/images/4.jpeg" alt="screenshot" width="200"/>
+<img src="/images/5.jpeg" alt="screenshot" width="200"/>
+
 ## 🧠 What is LeetIntuit?
 
 LeetIntuit is your AI-powered sidekick designed to guide you toward understanding how to approach a problem logically. Instead of handing you a solution, LeetIntuit offers hints, breakdowns, and strategic thinking patterns that stimulate your problem-solving abilities.
@@ -48,13 +54,6 @@ Preparing for technical interviews (LeetCode)
 Enhancing problem-solving strategies
 Teaching computer science and algorithms
 Practicing critical thinking and logic development
-
-
-## 📷 Demo
-<img src="/images/1.jpeg" alt="screenshot" width="200"/> <img src="/images/2.jpeg" alt="screenshot" width="200"/>
-<img src="/images/3.jpeg" alt="screenshot" width="200"/>
-<img src="/images/4.jpeg" alt="screenshot" width="200"/>
-<img src="/images/5.jpeg" alt="screenshot" width="200"/>
 
 
 ## 🛡️ Philosophy
